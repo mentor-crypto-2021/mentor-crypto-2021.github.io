@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Mentoring Workshop and Videos
 
-You can use the [editor on GitHub](https://github.com/mentor-crypto-2021/mentor-crypto-2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This workshop aims to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. The workshop will bring together cryptography researchers at different stages of their career to form panels and answer questions for these groups. Besides the live events, the organizers will turn to a large group of cryptography researchers and collect pre- recorded answers and advice from them on a list of interesting questions. These answers will be combined into a set of videos showing various perspectives and be publicly available for the community. As the outcome of this workshop, our mission is to foster a friendly environment where the community can openly share their academic experiences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact: [mw.cypto@gmail.com](mw.cypto@gmail.com)
 
-### Markdown
+### Schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mentor-crypto-2021/mentor-crypto-2021.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TBA
