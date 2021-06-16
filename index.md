@@ -31,4 +31,4 @@ Time TBA
 TBA
 
 ### Sponsors 
-This workshop was supported by 
+This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
