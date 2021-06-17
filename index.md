@@ -4,8 +4,15 @@ This workshop aims to provide advice for researchers in early stages (students a
 #### Contact
 [mw.cypto@gmail.com](mw.cypto@gmail.com)
 
+### Orgnizers
+- Peihan Miao
+- Xiao Wang
+- Tal Rabin (Orgnizing Advisor)
+- Hilarie Orman (Women Researcher Panel Orgnizer)
+
 ### Schedule
 Saturday August 14 2021
+
 Time TBA
 
 ### Panel List
