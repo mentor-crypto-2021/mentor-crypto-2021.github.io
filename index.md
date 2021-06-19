@@ -9,7 +9,7 @@ This workshop is an [affiliated event](https://crypto.iacr.org/2021/affiliated.p
 Links to the videos will be posted soon before the workshop.
 
 ## Panels
-Both panels will happen on Saturday, August 14 2021. The schedule will be announced soon.
+Both panels will happen on August 14 2021 (Saturday). The schedule will be announced soon.
 
 #### Junior Researcher Panel
 - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
