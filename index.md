@@ -4,16 +4,16 @@ This workshop aims to provide advice for researchers in early stages (students a
 #### Contact
 [mw.cypto@gmail.com](mw.cypto@gmail.com)
 
-### Orgnizers
+#### Orgnizers
 - Peihan Miao
 - Xiao Wang
 - Tal Rabin (Orgnizing Advisor)
 - Hilarie Orman (Women Researcher Panel Orgnizer)
 
-### Videos
+## Videos
 Links to the videos will be posted soon before the workshop.
 
-### Panels
+## Panels
 Both panels will happen on Saturday, August 14 2021. The schedule will be announced soon.
 
 #### Junior Researcher Panel
@@ -34,7 +34,7 @@ Both panels will happen on Saturday, August 14 2021. The schedule will be announ
 - Rei Safavi-Naini (University of Calgary)
 
 
-### Sponsors 
+## Sponsors 
 This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
 
 <img src="Lab-logo.png" height=70px/>
