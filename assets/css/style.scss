@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+    width: 80%;
+}
+
 #SEC {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #fcf9f0;
