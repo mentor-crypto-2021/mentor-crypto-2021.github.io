@@ -33,7 +33,7 @@ Both panels will happen on Saturday, August 14 2021. The schedule will be announ
 - [Peihan Miao](https://sites.google.com/view/peihanmiao/home)
 - [Xiao Wang](https://wangxiao1254.github.io)
 - [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (Orgnizing Advisor)
-- [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Women Researcher Panel Orgnizer)
+- [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Women Researcher Panel)
 
 ## Sponsors 
 This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
