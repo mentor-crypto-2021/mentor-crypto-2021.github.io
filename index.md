@@ -1,8 +1,6 @@
 
 This workshop aims to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. The workshop will bring together cryptography researchers at different stages of their career to form panels and answer questions for these groups. Besides the live events, the organizers will turn to a large group of cryptography researchers and collect pre-recorded answers and advice from them on a list of interesting questions. These answers will be combined into a set of videos showing various perspectives and be publicly available for the community. As the outcome of this workshop, our mission is to foster a friendly environment where the community can openly share their academic experiences.
 
-**Contact** [peihan@uic.edu](peihan@uic.edu) and [wangxiao@northwestern.edu](wangxiao@northwestern.edu)
-
 ## Registration
 The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/2021/). To register to the workshop, please register to CRYPTO 2021, and mark this workshop in the registration form.
 
@@ -35,6 +33,8 @@ Both panels will happen on August 14 2021 (Saturday). The schedule will be annou
 - [Xiao Wang](https://wangxiao1254.github.io)
 - [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (Workshop Advisor)
 - [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Women Researcher Panel)
+
+**Contact** [peihan@uic.edu](peihan@uic.edu) and [wangxiao@northwestern.edu](wangxiao@northwestern.edu)
 
 ## Sponsors 
 This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
