@@ -14,7 +14,7 @@ This workshop aims to provide advice for researchers in early stages (students a
 Links to the videos will be posted soon before the workshop.
 
 ### Panels
-Both panels will happen on Saturday, August 14 2021. The schedule will be accounced soon.
+Both panels will happen on Saturday, August 14 2021. The schedule will be announced soon.
 
 #### Junior Researcher Panel
 - Shweta Agrawal (IIT Madras)
