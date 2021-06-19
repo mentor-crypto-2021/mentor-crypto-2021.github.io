@@ -39,6 +39,7 @@ TBA
 
 ### Sponsors 
 This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
-<img src="Lab-logo.png" width=200px/>
-<img src="PlatON-logo.png" width=200px/>
+
+<img src="Lab-logo.png" height=50px/>
+<img src="PlatON-logo.png" height=50px/>
 
