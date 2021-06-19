@@ -32,7 +32,7 @@ Both panels will happen on Saturday, August 14 2021. The schedule will be announ
 ## Organizers
 - [Peihan Miao](https://sites.google.com/view/peihanmiao/home)
 - [Xiao Wang](https://wangxiao1254.github.io)
-- [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (Orgnizing Advisor)
+- [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (Workshop Advisor)
 - [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Women Researcher Panel)
 
 ## Sponsors 
