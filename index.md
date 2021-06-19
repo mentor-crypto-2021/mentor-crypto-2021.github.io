@@ -13,8 +13,8 @@ Both panels will happen on August 14 2021 (Saturday). The schedule will be annou
 #### Junior Researcher Panel
 - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
 - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washigton)
-- [Aloni Cohen](https://aloni.net) (University of Chicago)
-- [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley)
+- [Aloni Cohen](https://aloni.net) (Boston University and University of Chicago)
+- [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley and NTT)
 - [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) (Johns Hopkins University)
 - [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
 - [Antigoni Polychroniadou](http://www.cs.cornell.edu/~polychroniadou/) (J.P. Morgan AI research)
