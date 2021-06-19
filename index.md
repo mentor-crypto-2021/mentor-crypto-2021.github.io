@@ -29,8 +29,8 @@ Both panels will happen on August 14 2021 (Saturday). The schedule will be annou
 
 
 ## Organizers
-- [Peihan Miao](https://sites.google.com/view/peihanmiao/home)
-- [Xiao Wang](https://wangxiao1254.github.io)
+- [Peihan Miao](https://sites.google.com/view/peihanmiao/home) (University of Illinois at Chicago)
+- [Xiao Wang](https://wangxiao1254.github.io) (Northwestern University)
 - [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (University of Pennsylvania and Algorand Foundation), Workshop Advisor
 - [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Cryptic Labs LLC), Women Researcher Panel
 
