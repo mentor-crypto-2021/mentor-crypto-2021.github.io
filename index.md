@@ -5,7 +5,7 @@ This workshop is an [affiliated event](https://crypto.iacr.org/2021/affiliated.p
 #### Contact
 [peihan@uic.edu](peihan@uic.edu) and [wangxiao@northwestern.edu](wangxiao@northwestern.edu)
 
-#### Orgnizers
+#### Organizers
 - Peihan Miao
 - Xiao Wang
 - Tal Rabin (Orgnizing Advisor)
