@@ -5,10 +5,10 @@ This workshop is an [affiliated event](https://crypto.iacr.org/2021/affiliated.p
 ** Contact ** [peihan@uic.edu](peihan@uic.edu) and [wangxiao@northwestern.edu](wangxiao@northwestern.edu)
 
 #### Organizers
-- Peihan Miao (University of Illinois at Chicago)
-- Xiao Wang (Northwestern University)
-- Tal Rabin (Orgnizing Advisor, University of Pennsylvania and Algorand Foundation)
-- Hilarie Orman (Women Researcher Panel Orgnizer, Cryptic Labs LLC)
+- Peihan Miao
+- Xiao Wang
+- Tal Rabin (Orgnizing Advisor)
+- Hilarie Orman (Women Researcher Panel Orgnizer)
 
 ## Videos
 Links to the videos will be posted soon before the workshop.
