@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+html {
+    background: #ffffff
+}
 .wrapper {
     width: 80%;
 }
