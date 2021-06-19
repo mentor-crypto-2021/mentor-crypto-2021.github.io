@@ -12,28 +12,28 @@ Links to the videos will be posted soon before the workshop.
 Both panels will happen on Saturday, August 14 2021. The schedule will be announced soon.
 
 #### Junior Researcher Panel
-- (Shweta Agrawal)[https://www.cse.iitm.ac.in/~shwetaag/] (IIT Madras)
-- (Marshall Ball)[http://www.columbia.edu/~mmb2249/] (University of Washigton)
-- (Aloni Cohen)[https://aloni.net] (University of Chicago)
-- (Sanjam Garg)[https://people.eecs.berkeley.edu/~sanjamg/] (University of California, Berkeley)
-- (Abhishek Jain)[https://www.cs.jhu.edu/~abhishek/] (Johns Hopkins University)
-- (Lisa Kohl)[https://lisakohl.me] (CWI Amsterdam)
-- (Antigoni Polychroniadou)[http://www.cs.cornell.edu/~polychroniadou/] (J.P. Morgan AI research)
+- [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
+- [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washigton)
+- [Aloni Cohen](https://aloni.net) (University of Chicago)
+- [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley)
+- [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) (Johns Hopkins University)
+- [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
+- [Antigoni Polychroniadou](http://www.cs.cornell.edu/~polychroniadou/) (J.P. Morgan AI research)
 
 #### Women Researcher Panel
-- (Helena Handschuh)[https://www.rambus.com/inventors/inventor-helena-handschuh/] (Rambus Inc.)
-- (Yael Kalai)[https://www.microsoft.com/en-us/research/people/yael] (Microsoft Research New England and MIT)
-- (Anna Lysyanskaya)[http://cs.brown.edu/people/alysyans/] (Brown University)
-- (Hilarie Orman)[https://crypticlabs.org/hilarie-orman/] (Cryptic Labs LLC)
-- (Tal Rabin)[https://directory.seas.upenn.edu/tal-rabin/] (University of Pennsylvania and Algorand Foundation)
-- (Rei Safavi-Naini)[http://pages.cpsc.ucalgary.ca/~rei/] (University of Calgary)
+- [Helena Handschuh](https://www.rambus.com/inventors/inventor-helena-handschuh/) (Rambus Inc.)
+- [Yael Kalai](https://www.microsoft.com/en-us/research/people/yael) (Microsoft Research New England and MIT)
+- [Anna Lysyanskaya](http://cs.brown.edu/people/alysyans/) (Brown University)
+- [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Cryptic Labs LLC)
+- [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (University of Pennsylvania and Algorand Foundation)
+- [Rei Safavi-Naini](http://pages.cpsc.ucalgary.ca/~rei/) (University of Calgary)
 
 
 ## Organizers
-- (Peihan Miao)[https://sites.google.com/view/peihanmiao/home]
-- (Xiao Wang)[https://wangxiao1254.github.io]
-- (Tal Rabin)[https://directory.seas.upenn.edu/tal-rabin/] (Orgnizing Advisor)
-- (Hilarie Orman)[https://crypticlabs.org/hilarie-orman/] (Women Researcher Panel Orgnizer)
+- [Peihan Miao](https://sites.google.com/view/peihanmiao/home)
+- [Xiao Wang](https://wangxiao1254.github.io)
+- [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (Orgnizing Advisor)
+- [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Women Researcher Panel Orgnizer)
 
 ## Sponsors 
 This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
