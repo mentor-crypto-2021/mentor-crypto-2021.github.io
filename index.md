@@ -10,12 +10,11 @@ This workshop aims to provide advice for researchers in early stages (students a
 - Tal Rabin (Orgnizing Advisor)
 - Hilarie Orman (Women Researcher Panel Orgnizer)
 
-### Schedule
-Saturday August 14 2021
+### Videos
+Links to the videos will be posted soon before the workshop.
 
-Time TBA
-
-### Panel List
+### Panels
+Both panels will happen on Saturday, August 14 2021. The schedule will be accounced soon.
 
 #### Junior Researcher Panel
 - Shweta Agrawal (IIT Madras)
@@ -34,12 +33,9 @@ Time TBA
 - Tal Rabin (University of Pennsylvania and Algorand Foundation)
 - Rei Safavi-Naini (University of Calgary)
 
-### Videos
-TBA
 
 ### Sponsors 
 This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
 
 <img src="Lab-logo.png" height=50px/>
 <img src="PlatON-logo.png" height=50px/>
-
