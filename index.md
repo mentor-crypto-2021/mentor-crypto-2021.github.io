@@ -40,4 +40,4 @@ Both panels will happen on August 14 2021 (Saturday). The schedule will be annou
 This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
 
 <img src="Lab-logo.png" height=70px/>
-<img src="PlatON-logo.png" height=70px/>
+<img src="ME-logo.png" height=70px/>
