@@ -17,7 +17,7 @@ Both panels will happen on August 14 2021 (Saturday). The schedule will be annou
 - [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley and NTT)
 - [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) (Johns Hopkins University)
 - [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
-- [Antigoni Polychroniadou](http://www.cs.cornell.edu/~polychroniadou/) (J.P. Morgan AI research)
+- [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI research)
 
 #### Women Researcher Panel
 - [Helena Handschuh](https://www.rambus.com/inventors/inventor-helena-handschuh/) (Rambus Inc.)
