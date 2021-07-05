@@ -14,6 +14,7 @@ Both panels will happen on August 14 2021 (Saturday). The schedule will be annou
 - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
 - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washigton)
 - [Aloni Cohen](https://aloni.net) (Boston University and University of Chicago)
+- [Akshay Degwekar](https://toc.csail.mit.edu/user/198) (TwoSigma)
 - [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley and NTT)
 - [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) (Johns Hopkins University)
 - [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
