@@ -5,7 +5,7 @@ This workshop aims to provide advice for researchers in early stages (students a
 The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/2021/). To register to the workshop, please register to CRYPTO 2021, and mark this workshop in the registration form.
 
 ## Videos
-Links to the videos: https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2
+Links to the videos: [https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2](https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2)
 
 ## Panels
 Both panels will happen on August 14 2021 (Saturday).
