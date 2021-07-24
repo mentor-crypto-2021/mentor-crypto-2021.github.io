@@ -10,24 +10,28 @@ The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/202
 Both panels will happen on August 14 2021 (Saturday).
 
 #### Students & Junior Researchers Panel
-Tentative schedule: ***8:30 am - 10:00 am PDT***
-- [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
-- [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washigton)
-- [Aloni Cohen](https://aloni.net) (Boston University and University of Chicago)
-- [Akshay Degwekar](https://toc.csail.mit.edu/user/198) (TwoSigma)
-- [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley and NTT)
-- [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) (Johns Hopkins University)
-- [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
-- [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI research)
+- Tentative schedule: ***8:30 am - 10:00 am PDT***
+- *Submit your questions here:* https://app.sli.do/event/hrn4ebqu
+- Panelists:
+  - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
+  - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washigton)
+  - [Aloni Cohen](https://aloni.net) (Boston University and University of Chicago)
+  - [Akshay Degwekar](https://toc.csail.mit.edu/user/198) (TwoSigma)
+  - [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley and NTT)
+  - [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) (Johns Hopkins University)
+  - [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
+  - [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI research)
 
 #### Women Researchers Panel
-Tentative schedule: ***12:00 pm - 13:30 pm PDT***
-- [Helena Handschuh](https://www.rambus.com/inventors/inventor-helena-handschuh/) (Rambus Inc.)
-- [Yael Kalai](https://www.microsoft.com/en-us/research/people/yael) (Microsoft Research New England and MIT)
-- [Anna Lysyanskaya](http://cs.brown.edu/people/alysyans/) (Brown University)
-- [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Cryptic Labs LLC)
-- [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (University of Pennsylvania and Algorand Foundation)
-- [Rei Safavi-Naini](http://pages.cpsc.ucalgary.ca/~rei/) (University of Calgary)
+- Tentative schedule: ***12:00 pm - 13:30 pm PDT***
+- *Submit your questions here:* https://app.sli.do/event/ypl6d4oy
+- Panelits:
+  - [Helena Handschuh](https://www.rambus.com/inventors/inventor-helena-handschuh/) (Rambus Inc.)
+  - [Yael Kalai](https://www.microsoft.com/en-us/research/people/yael) (Microsoft Research New England and MIT)
+  - [Anna Lysyanskaya](http://cs.brown.edu/people/alysyans/) (Brown University)
+  - [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Cryptic Labs LLC)
+  - [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (University of Pennsylvania and Algorand Foundation)
+  - [Rei Safavi-Naini](http://pages.cpsc.ucalgary.ca/~rei/) (University of Calgary)
 
 ---
 ## Videos
