@@ -9,7 +9,7 @@ The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/202
 ## Panels
 Both panels will happen on August 14 2021 (Saturday).
 
-#### Junior Researcher Panel
+#### Students & Junior Researchers Panel
 Tentative schedule: ***8:30 am - 10:00 am PDT***
 - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
 - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washigton)
@@ -20,7 +20,7 @@ Tentative schedule: ***8:30 am - 10:00 am PDT***
 - [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
 - [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI research)
 
-#### Women Researcher Panel
+#### Women Researchers Panel
 Tentative schedule: ***12:00 pm - 13:30 pm PDT***
 - [Helena Handschuh](https://www.rambus.com/inventors/inventor-helena-handschuh/) (Rambus Inc.)
 - [Yael Kalai](https://www.microsoft.com/en-us/research/people/yael) (Microsoft Research New England and MIT)
