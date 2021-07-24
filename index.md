@@ -1,11 +1,11 @@
 ## About
 This workshop aims to provide advice for researchers in early stages (students and junior faculty) and women researchers in the area of cryptography. The workshop will bring together cryptography researchers at different stages of their career to form panels and answer questions for these groups. Besides the live events, the organizers will turn to a large group of cryptography researchers and collect pre-recorded answers and advice from them on a list of interesting questions. These answers will be combined into a set of videos showing various perspectives and be publicly available for the community. As the outcome of this workshop, our mission is to foster a friendly environment where the community can openly share their academic experiences.
 
-
+---
 ## Registration
 The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/2021/). To register to the workshop, please register to CRYPTO 2021, and mark this workshop in the registration form.
 
-
+---
 ## Panels
 Both panels will happen on August 14 2021 (Saturday).
 
@@ -29,7 +29,7 @@ Tentative schedule: ***12:00 pm - 13:30 pm PDT***
 - [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (University of Pennsylvania and Algorand Foundation)
 - [Rei Safavi-Naini](http://pages.cpsc.ucalgary.ca/~rei/) (University of Calgary)
 
-
+---
 ## Videos
 Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2).
 
@@ -67,6 +67,7 @@ Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=P
 - Tal Rabin with her women friends (Elette Boyle, Shafi Goldwasser, Yael Kalai, Tal Malkin) [[video](https://youtu.be/brf0d0180eU)]
 - Tal Rabin with her Algorand friends (Fabrice Benhamouda, Craig Gentry, Shai Halevi, Hugo Krawczyk) [[video](https://youtu.be/brf0d0180eU)]
 
+---
 ## Organizers
 - [Peihan Miao](https://sites.google.com/view/peihanmiao/home) (University of Illinois at Chicago)
 - [Xiao Wang](https://wangxiao1254.github.io) (Northwestern University)
@@ -75,6 +76,7 @@ Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=P
 
 **Contact** [peihan@uic.edu](peihan@uic.edu) and [wangxiao@northwestern.edu](wangxiao@northwestern.edu)
 
+---
 ## Sponsors 
 This workshop is supported by Shanghai Key Laboratory of Privacy-Preserving Computation and MatrixElements Technologies.
 
