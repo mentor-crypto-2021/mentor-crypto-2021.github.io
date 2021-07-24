@@ -33,7 +33,7 @@ Tentative schedule: ***12:00 pm - 13:30 pm PDT***
 ## Videos
 Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2).
 
-#### General Advice:
+**General Advice:**
 - Q1. How do you find a research topic/problem to work on? [[video](https://youtu.be/ldc0R8EksTI)]
 - Q2. How do you write a research paper? How to write a good paper? [[video](https://youtu.be/PaiKQOTQhcI)]
 - Q3. How do you prepare for a research talk? How to give a good talk? [[video](https://youtu.be/XBhJ-fRLsXE)]
@@ -42,28 +42,28 @@ Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=P
 - Q6. How do you manage your time? How do you allocate your time between work and other things? [[video](https://youtu.be/yszeQMblXpY)]
 - Q7. There were 1600+ papers on ePrint in 2020. How do you choose which papers to read and how do you read them? [[video](https://youtu.be/_kwJGSbhFaU)]
 
-#### Advice for PhD Students:
+**Advice for PhD Students:**
 - Q8. What’s your advice to start the first research project in cryptography? [[video](https://youtu.be/W5iQyyPg7ps)]
 - Q9. What was the hardest part during your PhD? How did you overcome it? [[video](https://youtu.be/e8kS6o38ZI8)]
 - Q10. Is it advisable to do a postdoc before searching for a faculty/research position? [[video](https://youtu.be/wVsmBC51aLY)]
 - Q11. How to find a postdoc/faculty/industrial job? How to prepare for job interviews? [[video](https://youtu.be/1jQR0SwRRAU)]
 - Q12. What are the pros and cons between academia and industry? [[video](https://youtu.be/_0km2NQJAWk)]
 
-#### Advice for Junior Faculty:
+**Advice for Junior Faculty:**
 - Q13. How did you build up your research group? How do you attract/find good students? [[video](https://youtu.be/MNXO--MmKXo)]
 - Q14. How do you advise your students? [[video](https://youtu.be/VZEltRP31PU)]
 - Q15. How to get grants? [[video](https://youtu.be/xJimcPcwLPM)]
 - Q16. How to design a good course? How to be a good teacher? [[video](https://youtu.be/aXxCmnKD9ZQ)]
 - Q17. Time is limited. What should I focus on and what should I drop? [[video](https://youtu.be/4U1ad-7nM2A)]
 
-#### Questions/Advice for Women:
+**Questions/Advice for Women:**
 - Q18. Did you feel any challenges particular to women? How did you overcome those? [[video](https://youtu.be/bAqJOI4zsbI)]
 - Q19-20. Do you feel you have equal opportunities to men? How were you encouraged to get into computer science and cryptography? [[video](https://youtu.be/wnpSn_00mHU)]
 - Q21. What do you think the community could do better to attract more women students? [[video](https://youtu.be/6yvtrhf2Rv8)]
 
-#### Q22. Any final thoughts/advice? [[video](https://youtu.be/d4w2nNpp9Cw)]
+**Q22. Any final thoughts/advice? [[video](https://youtu.be/d4w2nNpp9Cw)]**
 
-#### Group Interviews:
+**Group Interviews:**
 - Tal Rabin with her women friends (Elette Boyle, Shafi Goldwasser, Yael Kalai, Tal Malkin) [[video](https://youtu.be/brf0d0180eU)]
 - Tal Rabin with her Algorand friends (Fabrice Benhamouda, Craig Gentry, Shai Halevi, Hugo Krawczyk) [[video](https://youtu.be/brf0d0180eU)]
 
