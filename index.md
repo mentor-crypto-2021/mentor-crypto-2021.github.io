@@ -33,7 +33,7 @@ Tentative schedule: ***12:00 pm - 13:30 pm PDT***
 ## Videos
 Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2).
 
-**General Advice:**
+#### General Advice:
 - Q1. How do you find a research topic/problem to work on? [[video](https://youtu.be/ldc0R8EksTI)]
 - Q2. How do you write a research paper? How to write a good paper? [[video](https://youtu.be/PaiKQOTQhcI)]
 - Q3. How do you prepare for a research talk? How to give a good talk? [[video](https://youtu.be/XBhJ-fRLsXE)]
