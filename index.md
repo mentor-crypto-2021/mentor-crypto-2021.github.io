@@ -5,7 +5,7 @@ This workshop aims to provide advice for researchers in early stages (students a
 ## Registration
 The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/2021/). To register to the workshop, please register to CRYPTO 2021, and mark this workshop in the registration form.
 
-***Please submit your questions in advance for the [Students & Junior Researchers Panel](https://app.sli.do/event/hrn4ebqu) and [Women Researchers Panel](https://app.sli.do/event/ypl6d4oy)!***
+***Please submit your (anonymous) questions in advance for the [Students & Junior Researchers Panel](https://app.sli.do/event/hrn4ebqu) and [Women Researchers Panel](https://app.sli.do/event/ypl6d4oy)!***
 
 ---
 ## Panels
@@ -13,7 +13,7 @@ Both panels will happen on August 14 2021 (Saturday).
 
 #### Students & Junior Researchers Panel
 - Tentative schedule: ***8:30 am - 10:00 am PDT***
-- ***Submit your questions here:*** [[Slido](https://app.sli.do/event/hrn4ebqu)]
+- ***Submit your anonymous questions here:*** [[Slido](https://app.sli.do/event/hrn4ebqu)]
 - Panelists:
   - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
   - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washigton)
@@ -26,7 +26,7 @@ Both panels will happen on August 14 2021 (Saturday).
 
 #### Women Researchers Panel
 - Tentative schedule: ***12:00 pm - 13:30 pm PDT***
-- ***Submit your questions here:*** [[Slido](https://app.sli.do/event/ypl6d4oy)]
+- ***Submit your anonymous questions here:*** [[Slido](https://app.sli.do/event/ypl6d4oy)]
 - Panelits:
   - [Helena Handschuh](https://www.rambus.com/inventors/inventor-helena-handschuh/) (Rambus Inc.)
   - [Yael Kalai](https://www.microsoft.com/en-us/research/people/yael) (Microsoft Research New England and MIT)
