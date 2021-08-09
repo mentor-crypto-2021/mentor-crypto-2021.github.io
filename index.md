@@ -13,7 +13,7 @@ The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/202
 ## Panels
 
 #### Students & Junior Researchers Panel
-- **Live: Sun Aug 14, 15:30 - 17:00 UTC (8:30 - 10:00 PDT)**
+- **Live: Sat Aug 14, 15:30 - 17:00 UTC (8:30 - 10:00 PDT)**
 - *Replay: Sun Aug 15, 5:00 - 6:30 UTC (Sat Aug 14, 22:00 - 23:30 PDT)*
 - *Submit your anonymous questions here:* [[Slido](https://app.sli.do/event/hrn4ebqu)]
 - **Panelists:**
@@ -27,7 +27,7 @@ The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/202
   - [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI research)
 
 #### Women Researchers Panel
-- **Live: Sun Aug 14, 19:00 - 20:30 UTC (12:00 - 13:30 PDT)**
+- **Live: Sat Aug 14, 19:00 - 20:30 UTC (12:00 - 13:30 PDT)**
 - *Replay: Sun Aug 15, 7:00 - 8:30 UTC (Sun Aug 15, 00:00 - 01:30 PDT)*
 - *Submit your anonymous questions here:* [[Slido](https://app.sli.do/event/ypl6d4oy)]
 - **Panelits:**
