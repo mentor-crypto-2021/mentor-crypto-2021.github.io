@@ -5,9 +5,9 @@ This workshop aims to provide advice for researchers in early stages (students a
 ## Registration
 The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/2021/). To register to the workshop, please register to CRYPTO 2021, and mark this workshop in the registration form.
 
-*The panels will be live streamed with one replay at a different time. The recordings will* **not** *be posted online after the workshop.*
+***The panels will be live streamed with one replay at a different time. The recordings will*** not ***be posted online after the workshop.***
 
-***Please submit your (anonymous) questions in advance for the [Students & Junior Researchers Panel](https://app.sli.do/event/hrn4ebqu) and [Women Researchers Panel](https://app.sli.do/event/ypl6d4oy)!***
+*Please submit your (anonymous) questions in advance for the [Students & Junior Researchers Panel](https://app.sli.do/event/hrn4ebqu) and [Women Researchers Panel](https://app.sli.do/event/ypl6d4oy)!*
 
 ---
 ## Panels
@@ -15,8 +15,8 @@ The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/202
 #### Students & Junior Researchers Panel
 - **Live: Sun Aug 14, 15:30 - 17:00 UTC (8:30 - 10:00 PDT)**
 - *Replay: Sun Aug 15, 5:00 - 6:30 UTC (Sat Aug 14, 22:00 - 23:30 PDT)*
-- ***Submit your anonymous questions here:*** [[Slido](https://app.sli.do/event/hrn4ebqu)]
-- Panelists:
+- *Submit your anonymous questions here:* [[Slido](https://app.sli.do/event/hrn4ebqu)]
+- **Panelists:**
   - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
   - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washigton)
   - [Aloni Cohen](https://aloni.net) (Boston University and University of Chicago)
@@ -29,8 +29,8 @@ The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/202
 #### Women Researchers Panel
 - **Live: Sun Aug 14, 19:00 - 20:30 UTC (12:00 - 13:30 PDT)**
 - *Replay: Sun Aug 15, 7:00 - 8:30 UTC (Sun Aug 15, 00:00 - 01:30 PDT)*
-- ***Submit your anonymous questions here:*** [[Slido](https://app.sli.do/event/ypl6d4oy)]
-- Panelits:
+- *Submit your anonymous questions here:* [[Slido](https://app.sli.do/event/ypl6d4oy)]
+- **Panelits:**
   - [Yael Kalai](https://www.microsoft.com/en-us/research/people/yael) (Microsoft Research New England and MIT)
   - [Anna Lysyanskaya](http://cs.brown.edu/people/alysyans/) (Brown University)
   - [Elke De Mulder](https://www.rambus.com/inventors/inventor-elke-demulder/) (Rambus Inc.)
