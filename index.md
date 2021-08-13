@@ -20,11 +20,11 @@ The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/202
   - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
   - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washington)
   - [Aloni Cohen](https://aloni.net) (Boston University and University of Chicago)
-  - [Akshay Degwekar](https://toc.csail.mit.edu/user/198) (TwoSigma)
+  - [Akshay Degwekar](https://toc.csail.mit.edu/user/198) (Two Sigma)
   - [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley and NTT)
   - [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) (Johns Hopkins University)
   - [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
-  - [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI research)
+  - [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI Research)
 
 #### Women Researchers Panel
 - **Live: Sat Aug 14, 19:00 - 20:30 UTC (12:00 - 13:30 PDT)**
