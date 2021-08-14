@@ -75,7 +75,7 @@ Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=P
 
 #### Group Interviews:
 - Tal Rabin with her women friends (Elette Boyle, Shafi Goldwasser, Yael Kalai, Tal Malkin) [[video](https://youtu.be/brf0d0180eU)]
-- Tal Rabin with her Algorand friends (Fabrice Benhamouda, Craig Gentry, Shai Halevi, Hugo Krawczyk) [[video](https://youtu.be/brf0d0180eU)]
+- Tal Rabin with her Algorand friends (Fabrice Benhamouda, Craig Gentry, Shai Halevi, Hugo Krawczyk) [[video](https://youtu.be/-Cc48n1BKp8)]
 
 ---
 ## Organizers
