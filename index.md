@@ -4,42 +4,6 @@ This workshop aims to provide advice for researchers in early stages (students a
 ***Please fill in the [questionnaire](https://forms.gle/Fc6TW3GaMa31it4B9) to give us feedback!***
 
 ---
-## Registration
-The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/2021/). To register to the workshop, please register to CRYPTO 2021, and mark this workshop in the registration form.
-
-***The panels will be live streamed with one replay at a different time. The recordings will*** not ***be posted online after the workshop.***
-
-*Please submit your (anonymous) questions in advance for the [Students & Junior Researchers Panel](https://app.sli.do/event/hrn4ebqu) and [Women Researchers Panel](https://app.sli.do/event/ypl6d4oy)!*
-
----
-## Panels
-
-#### Students & Junior Researchers Panel
-- **Live: Sat Aug 14, 15:30 - 17:00 UTC (8:30 - 10:00 PDT)**
-- *Replay: Sun Aug 15, 5:00 - 6:30 UTC (Sat Aug 14, 22:00 - 23:30 PDT)*
-- *Submit your anonymous questions here:* [[Slido](https://app.sli.do/event/hrn4ebqu)]
-- **Panelists:**
-  - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
-  - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washington)
-  - [Aloni Cohen](https://aloni.net) (Boston University and University of Chicago)
-  - [Akshay Degwekar](https://toc.csail.mit.edu/user/198) (Two Sigma)
-  - [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley and NTT)
-  - [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
-  - [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI Research)
-
-#### Women Researchers Panel
-- **Live: Sat Aug 14, 19:00 - 20:30 UTC (12:00 - 13:30 PDT)**
-- *Replay: Sun Aug 15, 7:00 - 8:30 UTC (Sun Aug 15, 00:00 - 01:30 PDT)*
-- *Submit your anonymous questions here:* [[Slido](https://app.sli.do/event/ypl6d4oy)]
-- **Panelists:**
-  - [Yael Kalai](https://www.microsoft.com/en-us/research/people/yael) (Microsoft Research New England and MIT)
-  - [Anna Lysyanskaya](http://cs.brown.edu/people/alysyans/) (Brown University)
-  - [Elke De Mulder](https://www.rambus.com/inventors/inventor-elke-demulder/) (Rambus Inc.)
-  - [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Cryptic Labs LLC)
-  - [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (University of Pennsylvania and Algorand Foundation)
-  - [Rei Safavi-Naini](http://pages.cpsc.ucalgary.ca/~rei/) (University of Calgary)
-
----
 ## Videos
 Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2).
 
@@ -77,6 +41,43 @@ Here is the [playlist of all the videos](https://www.youtube.com/playlist?list=P
 #### Group Interviews:
 - Tal Rabin with her women friends (Elette Boyle, Shafi Goldwasser, Yael Kalai, Tal Malkin) [[video](https://youtu.be/brf0d0180eU)]
 - Tal Rabin with her Algorand friends (Fabrice Benhamouda, Craig Gentry, Shai Halevi, Hugo Krawczyk) [[video](https://youtu.be/-Cc48n1BKp8)]
+
+---
+## Registration
+The workshop is an affiliated event of [CRYPTO 2021](https://crypto.iacr.org/2021/). To register to the workshop, please register to CRYPTO 2021, and mark this workshop in the registration form.
+
+***The panels will be live streamed with one replay at a different time. The recordings will*** not ***be posted online after the workshop.***
+
+*Please submit your (anonymous) questions in advance for the [Students & Junior Researchers Panel](https://app.sli.do/event/hrn4ebqu) and [Women Researchers Panel](https://app.sli.do/event/ypl6d4oy)!*
+
+---
+## Panels
+
+#### Students & Junior Researchers Panel
+- **Live: Sat Aug 14, 15:30 - 17:00 UTC (8:30 - 10:00 PDT)**
+- *Replay: Sun Aug 15, 5:00 - 6:30 UTC (Sat Aug 14, 22:00 - 23:30 PDT)*
+- *Submit your anonymous questions here:* [[Slido](https://app.sli.do/event/hrn4ebqu)]
+- **Panelists:**
+  - [Shweta Agrawal](https://www.cse.iitm.ac.in/~shwetaag/) (IIT Madras)
+  - [Marshall Ball](http://www.columbia.edu/~mmb2249/) (University of Washington)
+  - [Aloni Cohen](https://aloni.net) (Boston University and University of Chicago)
+  - [Akshay Degwekar](https://toc.csail.mit.edu/user/198) (Two Sigma)
+  - [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley and NTT)
+  - [Lisa Kohl](https://lisakohl.me) (CWI Amsterdam)
+  - [Antigoni Polychroniadou](https://antigonip.github.io) (J.P. Morgan AI Research)
+
+#### Women Researchers Panel
+- **Live: Sat Aug 14, 19:00 - 20:30 UTC (12:00 - 13:30 PDT)**
+- *Replay: Sun Aug 15, 7:00 - 8:30 UTC (Sun Aug 15, 00:00 - 01:30 PDT)*
+- *Submit your anonymous questions here:* [[Slido](https://app.sli.do/event/ypl6d4oy)]
+- **Panelists:**
+  - [Yael Kalai](https://www.microsoft.com/en-us/research/people/yael) (Microsoft Research New England and MIT)
+  - [Anna Lysyanskaya](http://cs.brown.edu/people/alysyans/) (Brown University)
+  - [Elke De Mulder](https://www.rambus.com/inventors/inventor-elke-demulder/) (Rambus Inc.)
+  - [Hilarie Orman](https://crypticlabs.org/hilarie-orman/) (Cryptic Labs LLC)
+  - [Tal Rabin](https://directory.seas.upenn.edu/tal-rabin/) (University of Pennsylvania and Algorand Foundation)
+  - [Rei Safavi-Naini](http://pages.cpsc.ucalgary.ca/~rei/) (University of Calgary)
+
 
 ---
 ## Organizers
